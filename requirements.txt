@@ -1,3 +1,9 @@
+# Update setuptools and wheel globally
+# Note: These are tools and not project dependencies
+# To upgrade, run:
+# pip install --upgrade setuptools wheel
+
+# Project dependencies
 streamlit==1.36.0
 stanza==1.8.2
 gensim==4.1.0
