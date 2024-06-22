@@ -2,3 +2,4 @@ streamlit
 stanza
 gensim
 numpy
+gensim==4.1.0
