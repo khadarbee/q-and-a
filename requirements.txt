@@ -8,3 +8,5 @@ streamlit==1.36.0
 stanza==1.8.2
 gensim==4.1.0
 numpy==1.22.3
+python3-dev
+gcc
